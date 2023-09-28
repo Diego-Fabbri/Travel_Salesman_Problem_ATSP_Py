@@ -1,0 +1,18 @@
+Time = 0.06
+Total Cost (Obj value) = 90.4
+Solver Status is = ok
+Termination Condition is = optimal
+ 
+x[ 0 ][  5 ]:  1.0
+x[ 1 ][  3 ]:  1.0
+x[ 2 ][  4 ]:  1.0
+x[ 3 ][  0 ]:  1.0
+x[ 4 ][  1 ]:  1.0
+x[ 5 ][  2 ]:  1.0
+ 
+u[ 0 ]:  0
+u[ 1 ]:  3.0
+u[ 2 ]:  1.0
+u[ 3 ]:  5.0
+u[ 4 ]:  2.0
+u[ 5 ]:  0.0
